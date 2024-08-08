@@ -20,3 +20,26 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+#sec1{
+    font-weight: bold;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #F2F2F0;
+    padding: 20px;
+    border: 2px solid #EAE7E2;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+#sec2{
+    font-weight: bold;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #F2F2F0;
+    padding: 20px;
+    border: 2px solid #EAE7E2;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
